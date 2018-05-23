@@ -2,6 +2,8 @@
 
 This project is a low-cost air-quality monitor built and tested by students in Georgetown University's STIA 315: International Air Quality Lab class in Spring 2018. The project uses open hardware and software, and is intended for use cases where people are interested in learning more about their ambient air quality without having having access to professional-grade air-quality monitors. As a low-cost device, this air quality monitor is not fully calibrated and cannot be used to replace professional-grade air-quality monitoring; however, it can measure trends in air pollution over time and help provide a better understanding of local air quality.
 
+More information about the class is available [here](https://medium.com/@cfmccormick/building-low-cost-air-pollution-monitors-at-georgetown-university-10d9b437fcf1).
+
 ## Monitor hardware
 
 The monitor is built from the following hardware components:
